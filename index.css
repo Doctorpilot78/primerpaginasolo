@@ -10,16 +10,12 @@
     font-size: 30px;
 }
 
-table {
-    
-    
-}
-
 .navbar {
     background-color: aqua;
     text-align: center;
     width: 100%;
     border: 3px black;
+    float: left ;
 }
 
 .linavbar {
@@ -27,4 +23,10 @@ table {
     width: 100%;
     font-size: 20px;
     padding: 20px;
+}
+
+.imgpower {
+    display:block;
+    margin: auto;
+    text-align: center;
 }
